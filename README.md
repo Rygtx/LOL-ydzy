@@ -14,18 +14,21 @@
 
 同时为了不熟悉python的小伙伴做了一个cmd版本，输入你想要确定使用的英雄,用空格隔开
 
-不过这样为了方便输入，遗传算法的参数就没法改了,用的默认的
+遗传参数可以在 YD-GA_cmd.py 里改
+
+最后别忘记安装依赖  ``pip install pandas``
 
 ---
 大概5s之内运行完,不会耽误游戏时间
-
 ---
 ### 2019/9/29 适配9.19版本
 增加铲子凑羁绊功能
 
 ### 2019/10/21 适配9.20版本
 
-优化结果如下(9.19)
+### 2021/04/16 适配云顶S5版本
+
+优化结果如下(S5)
 cmd：
 ![ori](https://raw.githubusercontent.com/rygtx/LOL-ydzy/master/figure/figure_cmd_s5.png)
 ide（jupyter notebook）：
