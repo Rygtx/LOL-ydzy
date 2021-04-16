@@ -27,6 +27,6 @@
 
 优化结果如下(9.19)
 cmd：
-![ori](https://raw.githubusercontent.com/zzzzzzhang/LOL-ydzy/master/figure/figure_cmd_S5.png)
+![ori](https://raw.githubusercontent.com/rygtx/LOL-ydzy/master/figure/figure_cmd_S5.png)
 ide（jupyter notebook）：
 ![ori](https://raw.githubusercontent.com/zzzzzzhang/LOL-ydzy/master/figure/figure_ide.png)
